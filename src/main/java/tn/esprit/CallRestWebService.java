@@ -1,5 +1,4 @@
 package tn.esprit;
-
 import java.io.IOException;
 
 import org.apache.http.HttpResponse;
@@ -10,17 +9,7 @@ import org.apache.http.util.EntityUtils;
 import org.json.JSONObject;
 
 /**
- * @author Walid-YAICH
- * 
- * URL utiles :
- * http://theoryapp.com/parse-json-in-java/
- * https://jsonformatter.curiousconcept.com/
- * 
- *
- */
-/**
- * @author Walid-YAICH
- * new commit 3
+ * hello this is my first commit from the eclipse IDE
  */
 public class CallRestWebService {
 
