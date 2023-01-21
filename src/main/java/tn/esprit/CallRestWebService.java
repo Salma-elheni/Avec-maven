@@ -11,6 +11,9 @@ import org.json.JSONObject;
 /**
  * hello this is my first commit from the eclipse IDE
  */
+/**
+ * hello this is my second branch of maven project, created using eclipse IDE
+ */
 public class CallRestWebService {
 
 	public static final String endpoint = "http://ip-api.com/json";
